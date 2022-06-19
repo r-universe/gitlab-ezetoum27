@@ -1,0 +1,10 @@
+[
+  {
+    "package": "HBV.IANIGLA",
+    "oncran": true
+  },
+  {
+    "package": "hydrotoolbox",
+    "oncran": true
+  }
+]

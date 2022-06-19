@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "HBV.IANIGLA"]
+	path = HBV.IANIGLA
+	url = https://gitlab.com/ezetoum27/hbv.ianigla
+	shallow = true
+	registered = true
+[submodule "hydrotoolbox"]
+	path = hydrotoolbox
+	url = https://gitlab.com/ezetoum27/hydrotoolbox
+	shallow = true
+	registered = true
